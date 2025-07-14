@@ -89,7 +89,7 @@ nav button{
 } 
 
 .second-main img{
-    width: 403px;
+    max-width: 403px;
     height: 328px;
     border-radius:15px;
 }
