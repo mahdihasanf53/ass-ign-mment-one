@@ -13,7 +13,7 @@
  }
  
  .first-BG{
-   background-image: url('Assets/sttle');
+   background-image: url('./Assets/style.css');
     padding: 0 0 50px 0;
     background-color: rgb(248, 227, 201);
     
