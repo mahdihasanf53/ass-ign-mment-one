@@ -314,7 +314,7 @@ nav h1{
     color: white;
   }
   .get:hover{
-    background-color: rgb(101, 255, 129);
+    background-color: rgba(106, 238, 130, 0.762);
     color: #fb0505;
   }
   /* footer css this is final*/
