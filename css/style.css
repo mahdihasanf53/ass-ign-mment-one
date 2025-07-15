@@ -150,12 +150,7 @@ nav h1{
    align-items: center;
 
 }
-/* .third-section-dv{
-   background-color:#cfcef09d 
-   border-radius:10px;
-   max-width: 1140px;
-   padding:0px 160px 116px 140px;
-} */
+
 .third-section-dv-father{
     display: flex;
     gap: 160px;
