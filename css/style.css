@@ -127,6 +127,10 @@ nav h1{
     font-size:16px;
     border: none;
 }
+.sec-velly button:hover{
+    background-color: rgb(3, 233, 141);
+    color: #000000;
+}
 /* 3rd section */
 .third-section{
     /* background-color:#4E47FF;
@@ -309,9 +313,9 @@ nav h1{
     background-color: #4E47FF;
     color: white;
   }
-  .get :hover{
-    background-color: gold;
-    color: #000000;
+  .get:hover{
+    background-color: rgb(101, 255, 129);
+    color: #fb0505;
   }
   /* footer css this is final*/
   
